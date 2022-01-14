@@ -1,5 +1,5 @@
 # VilaTech
- Basic landing page, designed to gain experience in the middle of the Front-End, using HTML, CSS and Java Script languages. Based on my old E-Commerce "Vila Tech", a smartwatch and gadget store that I owned in 2020.
+Basic landing page, developed to practice Front-End, using HTML, CSS and Java Script languages. Based on my old E-Commerce "Vila Tech", a smartwatches and gadgets store that I owned in 2020/2021.
 ##
 
 ## Preview:
